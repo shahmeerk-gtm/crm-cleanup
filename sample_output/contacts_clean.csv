@@ -1,0 +1,71 @@
+first_name,last_name,email,company,title,phone,website,flags,merged_from_rows,source_row
+Omar,Haddad,omar.haddad@yahoo.com,,Investor Relations,+44 20 7946 0958,,personal email domain; phone not a valid US number; missing company,,38
+Sarah,Bianchi,sbianchi@bluepeakam.com,Bluepeak Asset Management,"VP, Operations",,bluepeakam.com,,,47
+Sarah,Garcia,sgarcia@bluepeakam.com,Bluepeak Asset Management,Portfolio Manager,+1 (309) 852-6729,bluepeakam.com,,18,76
+Mei,Nguyen,mnguyen@bluepeakam.com,Bluepeak Asset Management,Operations Manager,+1 (969) 358-7381,,,,83
+Emily,Okafor,eokafor@bluepeakam.com,Bluepeak Asset Management,COO,+1 (417) 228-5126,bluepeakam.com,,,71
+James,Park,jpark@bluepeakam.com,Bluepeak Asset Management,Head of Trading,,bluepeakam.com,,,14
+Omar,Sato,osato@bluepeakam.com,Bluepeak Asset Management,Operations Manager,+1 (915) 206-1434,bluepeakam.com,,,81
+Daniel,Tanaka,dtanaka@bluepeakam.com,Bluepeak Asset Management,Controller,+1 (421) 435-6614,,,,15
+Grace,Garcia,ggarcia@cedarridgeinv.com,Cedar Ridge Investments,Senior Analyst,+1 (911) 427-9199,,,,22
+Sofia,Moreau,smoreau@cedarridgeinv.com,Cedar Ridge Investments,Director of Fund Accounting,+1 (677) 799-8424,cedarridgeinv.com,,,34
+Mei,Patel,mpatel@cedarridgeinv.com,Cedar Ridge Investments,Director of Fund Accounting,+1 (761) 531-5005,cedarridgeinv.com,,,42
+Sarah,Quinn,squinn@cedarridgeinv.com,Cedar Ridge Investments,Head of Trading,+1 (903) 938-4622,cedarridgeinv.com,,,55
+Elena,Walsh,ewalsh@summitlegal.com,Cedar Ridge Investments,General Counsel,+1 (646) 555-0172,,email domain doesn't match company (summitlegal.com),,16
+David,Haddad,dhaddad@granitebayholdings.com,Granite Bay Holdings,Head of Technology,+1 (611) 263-4122,,,80,13
+Robert,Nguyen,rnguyen@granitebayholdings.com,Granite Bay Holdings,Director of Fund Accounting,+1 (988) 516-8085,,,49,67
+John,O'Neill,joneill@granitebayholdings.com,Granite Bay Holdings,Managing Director,+1 (239) 860-5977,granitebayholdings.com,,,65
+Robert,Tanaka,rtanaka@granitebayholdings.com,Granite Bay Holdings,Managing Director,+1 (548) 571-5461,granitebayholdings.com,,,50
+John,Adeyemi,jadeyemi@harborviewcap.com,Harborview Capital Partners,COO,+1 (987) 494-3119,,,72,59
+Aisha,Ivanova,aivanova@harborviewcap.com,Harborview Capital Partners,Managing Director,+1 (503) 724-2053,harborviewcap.com,,,69
+Hannah,Ivanova,hivanova@harborviewcap.com,Harborview Capital Partners,Operations Manager,+1 (821) 724-4267,,,,5
+Ahmed,Lindqvist,alindqvist@harborviewcap.com,Harborview Capital Partners,Operations Manager,+1 (469) 568-3172,harborviewcap.com,,,40
+Chloe,O'Neill,coneill@harborviewcap.com,Harborview Capital Partners,Controller,+1 (423) 891-9021,,,4,23
+Julia,O'Neill,joneill@harborviewcap.com,Harborview Capital Partners,Director of Fund Accounting,,harborviewcap.com,,,70
+Daniel,Quinn,dquinn@harborviewcap.com,Harborview Capital Partners,Chief Operating Officer,+1 (240) 457-9902,harborviewcap.com,,,58
+Victor,Russo,vrusso@harborviewcap,Harborview Capital Partners,VP Operations,555-0123,,invalid email; phone not a valid US number,,30
+Thomas,Tanaka,ttanaka@harborviewcap.com,Harborview Capital Partners,Director of Fund Accounting,+1 (853) 257-5136 ext. 290,,,,10
+Grace,Ferreira,gferreira@ironwoodcapital.com,Ironwood Capital,Controller,+1 (511) 908-3479,ironwoodcapital.com,,,60
+Emily,Garcia,egarcia@ironwoodcapital.com,Ironwood Capital,Chief Financial Officer,+1 (678) 691-8927,ironwoodcapital.com,,,20
+Priya,Ivanova,pivanova@ironwoodcapital.com,Ironwood Capital,Head of Trading,+1 (565) 990-4650,ironwoodcapital.com,,,11
+Brian,Mensah,bmensah@ironwoodcapital.com,Ironwood Capital,Head of Trading,+1 (824) 204-3454,,,,78
+Grace,Mensah,grace.mensah88@gmail.com,Ironwood Capital,Senior Analyst,+1 (512) 555-0199,ironwoodcapital.com,personal email domain,,36
+Samuel,Park,spark@ironwoodcapital.com,Ironwood Capital,Head of Trading,+1 (647) 201-9577,ironwoodcapital.com,,29,7
+Julia,Ferreira,,Kestrel Data Co.,Head of Data,+1 (737) 555-0148,kestreldata.com,missing email,,32
+David,Fischer,dfischer@kestreldata.com,Kestrel Data Co.,COO,+1 (288) 231-1685,kestreldata.com,,39,46
+Olivia,Lindqvist,olindqvist@kestreldata.com,Kestrel Data Co.,COO,+1 (720) 738-4790,,,,2
+Emily,Morales,emorales@kestreldata.com,Kestrel Data Co.,Head of Trading,+1 (471) 317-9695,,,,28
+Christopher,O'Neill,coneill@kestreldata.com,Kestrel Data Co.,Portfolio Manager,+1 (980) 846-7554,kestreldata.com,,,75
+Hannah,O'Neill,honeill@kestreldata.com,Kestrel Data Co.,Director of Fund Accounting,+1 (321) 599-8466,,,,17
+Sofia,Sato,ssato@kestreldata.com,Kestrel Data Co.,"VP, Operations",+1 (855) 799-6122,kestreldata.com,,,3
+Christopher,Adeyemi,cadeyemi@lakeshorewealth.com,Lakeshore Wealth Partners,Controller,,,,,79
+Thomas,Bianchi,tbianchi@lakeshorewealth.com,Lakeshore Wealth Partners,Head of Technology,+1 (575) 346-5146,,,,19
+James,Brennan,jbrennan@lakeshorewealth.com,Lakeshore Wealth Partners,Controller,+1 (606) 674-7576,lakeshorewealth.com,,,56
+,Delgado,info@lakeshorewealth.com,Lakeshore Wealth Partners,,,lakeshorewealth.com,missing name,,24
+Emily,Lindqvist,elindqvist@lakeshorewealth.com,Lakeshore Wealth Partners,Director of Fund Accounting,+1 (365) 441-6375,lakeshorewealth.com,,,26
+Chloe,Morales,cmorales@lakeshorewealth.com,Lakeshore Wealth Partners,Senior Analyst,+1 (711) 926-8323,lakeshorewealth.com,,77,44
+Christopher,Russo,crusso@lakeshorewealth.com,Lakeshore Wealth Partners,COO,+1 (213) 696-3987,lakeshorewealth.com,,,37
+Robert,Sato,rsato@lakeshorewealth.com,Lakeshore Wealth Partners,Senior Analyst,+1 (593) 623-9587 ext. 225,lakeshorewealth.com,,,73
+Michael,Tanaka,mtanaka@lakeshorewealth.com,Lakeshore Wealth Partners,Controller,+1 (775) 307-6351,,,,45
+Elena,Brennan,ebrennan@meridianpoint.com,Meridian Point Asset Management,Chief Operating Officer,+1 (805) 980-6954,,,51,64
+John,Haddad,jhaddad@meridianpoint.com,Meridian Point Asset Management,COO,+1 (681) 857-4702,meridianpoint.com,,,52
+Christopher,Moreau,cmoreau@meridianpoint.com,Meridian Point Asset Management,Head of Technology,+1 (736) 471-5843,meridianpoint.com,,57,43
+James,Okafor,jokafor@meridianpoint.com,Meridian Point Asset Management,Portfolio Manager,+1 (791) 799-7499,meridianpoint.com,,,48
+Sofia,Okafor,sokafor@meridianpoint.com,Meridian Point Asset Management,Chief Financial Officer,+1 (523) 254-7355,meridianpoint.com,,,31
+Nadia,Quinn,nquinn@meridianpoint.com,Meridian Point Asset Management,Chief Financial Officer,+1 (697) 638-2399,meridianpoint.com,,,74
+Thomas,Quinn,tquinn@meridianpoint.com,Meridian Point Asset Management,Operations Manager,+1 (441) 760-5047 ext. 39,meridianpoint.com,,,62
+Sarah,Russo,srusso@meridianpoint.com,Meridian Point Asset Management,Head of Technology,+1 (604) 322-3741,meridianpoint.com,,,82
+David,Chen,dchen@northgatefs.com,Northgate Fund Services,Operations Manager,+1 (952) 704-5071,northgatefs.com,,,12
+Sarah,Chen,schen@northgatefs.com,Northgate Fund Services,COO,+1 (708) 405-6107,northgatefs.com,,,61
+Priya,Kowalski,pkowalski@northgatefs.com,Northgate Fund Services,"VP, Operations",+1 (222) 559-5205,northgatefs.com,,,66
+Laura,Mensah,lmensah@northgatefs.com,Northgate Fund Services,Director of Fund Accounting,,northgatefs.com,,,41
+Hannah,Moreau,hmoreau@northgatefs.com,Northgate Fund Services,Head of Technology,,northgatefs.com,,,25
+Elena,Nguyen,enguyen@northgatefs.com,Northgate Fund Services,Managing Director,,,,,8
+Samuel,Tanaka,stanaka@northgatefs.com,Northgate Fund Services,COO,+1 (931) 212-5748,northgatefs.com,,53,9
+Hannah,Walsh,hwalsh@northgatefs.com,Northgate Fund Services,Director of Fund Accounting,,northgatefs.com,,63,27
+Sarah,Brennan,sbrennan@silverlineadvisors.com,Silverline Advisors LLC,Operations Manager,+1 (294) 868-3681,,,,21
+Laura,Delgado,ldelgado@silverlineadvisors.com,Silverline Advisors LLC,Managing Director,+1 (574) 671-3663,silverlineadvisors.com,,,6
+Ahmed,Kowalski,akowalski@silverlineadvisors.com,Silverline Advisors LLC,Chief Financial Officer,+1 (930) 521-2854,silverlineadvisors.com,,,33
+Aisha,Okafor,aokafor@silverlineadvisors.com,Silverline Advisors LLC,Managing Director,,silverlineadvisors.com,,,35
+Michael,Okafor,mokafor@silverlineadvisors.com,Silverline Advisors LLC,Head of Technology,+1 (386) 856-3035 ext. 474,silverlineadvisors.com,,,54
+John,Rahman,jrahman@silverlineadvisors.com,Silverline Advisors LLC,Chief Operating Officer,+1 (476) 217-2451,silverlineadvisors.com,,,68

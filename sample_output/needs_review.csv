@@ -1,0 +1,7 @@
+source_row,name,email,company,issues
+38,Omar Haddad,omar.haddad@yahoo.com,,personal email domain; phone not a valid US number; missing company
+16,Elena Walsh,ewalsh@summitlegal.com,Cedar Ridge Investments,email domain doesn't match company (summitlegal.com)
+30,Victor Russo,vrusso@harborviewcap,Harborview Capital Partners,invalid email; phone not a valid US number
+36,Grace Mensah,grace.mensah88@gmail.com,Ironwood Capital,personal email domain
+32,Julia Ferreira,,Kestrel Data Co.,missing email
+24,Delgado,info@lakeshorewealth.com,Lakeshore Wealth Partners,missing name

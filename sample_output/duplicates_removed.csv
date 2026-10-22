@@ -1,0 +1,13 @@
+removed_row,name,email,company,merged_into_row,reason
+4,Chloe O'Neill,coneill@harborviewcap.com,Harborview Capital Partners,23,same email
+29,Sam Park,,Ironwood Capital,7,same name and company
+53,Samuel Tanaka,stanaka@northgatefs.com,Northgate Fund Services,9,same email
+80,David Haddad,dhaddad@granitebayholdings.com,Granite Bay Holdings,13,same email
+18,Sarah Garcia,,Bluepeak Asset Management,76,same name and company
+63,Hannah Walsh,hwalsh@northgatefs.com,Northgate Fund Services,27,same email
+39,David Fischer,dfischer@kestreldata.com,Kestrel Data Co.,46,same email
+57,Christopher Moreau,cmoreau@meridianpoint.com,Meridian Point Asset Management,43,same email
+77,Chloe Morales,,Lakeshore Wealth Partners,44,same name and company
+49,Robert Nguyen,,Granite Bay Holdings,67,same name and company
+51,Elena Brennan,ebrennan@meridianpoint.com,Meridian Point Asset Management,64,same email
+72,Jon Adeyemi,,Harborview Capital Partners,59,same name and company
